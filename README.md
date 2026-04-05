@@ -26,10 +26,4 @@
 ## 🏃🏻 Activity
 
 ![Apple Developer Academy](https://img.shields.io/badge/Apple%20Developer%20Academy-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-![Segyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Segyun&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Segyun&layout=donut)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=topone03)](https://solved.ac/topone03)
+![GDGoC](https://img.shields.io/badge/GDGoC-FBBC05?style=for-the-badge&logo=google&logoColor=black)
